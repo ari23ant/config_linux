@@ -1,0 +1,12 @@
+
+# ======== Prefix ========
+# [add] :parkles: New features.
+# [wip] :pencil2: Work in progress.
+# [clean] :recycle: Refactoring code.
+# [rm] :fire: Removing code or files.
+# [doc] :memo: Writing docs.
+
+# ======== Format ========
+# [prefix] Subject
+#
+# Commit body...
