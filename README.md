@@ -1,2 +1,2 @@
 # linux
-setting file: .vimrc, .bashrc, etc.
+config file: .vimrc, .bashrc, etc.
