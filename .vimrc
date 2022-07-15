@@ -25,7 +25,7 @@ if dein#load_state('~/.vim/bundles')
     call dein#add('vim-airline/vim-airline-themes')
 
     " vim-tmux間の移動
-    call dein#add('christoomey/vim-tmux-navigator')
+    "call dein#add('christoomey/vim-tmux-navigator')
 
     " Julia-lang
     "call dein#add('JuliaEditorSupport/julia-vim')
